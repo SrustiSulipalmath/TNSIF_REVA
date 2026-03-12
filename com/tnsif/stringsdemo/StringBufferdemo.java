@@ -1,3 +1,5 @@
+package com.tnsif.stringsdemo;
+
 public class StringBufferdemo {
 	public static void main(String[] args) {
 		StringBuffer b = new StringBuffer("welcome");
