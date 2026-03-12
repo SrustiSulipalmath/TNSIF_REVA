@@ -9,6 +9,7 @@ public class CompareTo {
 		System.out.println(s1.compareTo(s3));
 		System.out.println(s1.compareTo(s2));
 		System.out.println(s3.compareTo(s1));
+		System.out.println(s3.compareToIgnoreCase(s1));
 	}
 
 }
