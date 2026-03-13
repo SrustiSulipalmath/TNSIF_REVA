@@ -1,6 +1,6 @@
-package com.tnsif.pacakgesprogram;
+package com.tnsif.CoreJavaPrograms.pacakgesprogram;
 import java.awt.im.spi.*;
-import com.tnsif.accessmodifierprograms.Publicdemo;
+import com.tnsif.CoreJavaPrograms.accessmodifierprograms.Publicdemo;
 
 public class Demo {
     public static void main(String[] args){

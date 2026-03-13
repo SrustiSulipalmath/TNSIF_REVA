@@ -1,4 +1,4 @@
-package com.tnsif.encapsulation;
+package com.tnsif.CoreJavaPrograms.encapsulation;
 
 public class Encapsulationdemo {
     int serialnumber;
