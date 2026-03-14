@@ -1,3 +1,5 @@
+package com.tnsif.CoreJavaPrograms.statics;
+
 public class finalkeyword {
     final int a=3;
     static final int c;
@@ -8,6 +10,7 @@ public class finalkeyword {
     static final int b;
     static{
         b=10;
+        c=20;
     }
     public static void main(String[] args) {
         finalkeyword f = new finalkeyword();
@@ -15,16 +18,16 @@ public class finalkeyword {
 }
 
 class finalinherited extends finalkeyword{
-    @Override
-    final void display(){
-        System.out.println("welcome to java");
-    }
+    // @Override
+    // final void display(){
+    //     System.out.println("welcome to java");
+    // }
 }
 
 final class cannotinherit{
 
 }
 
-class tryingtoinherit extends cannotinherit{
+// class tryingtoinherit extends cannotinherit{
 
-}
+// }

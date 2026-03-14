@@ -1,4 +1,4 @@
-package com.tnsif.statics;
+package com.tnsif.CoreJavaPrograms.statics;
 
 class student{
     int rollno;

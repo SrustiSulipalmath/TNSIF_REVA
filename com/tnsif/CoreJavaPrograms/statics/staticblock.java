@@ -1,3 +1,5 @@
+package com.tnsif.CoreJavaPrograms.statics;
+
 
 public class staticblock {
     static{
