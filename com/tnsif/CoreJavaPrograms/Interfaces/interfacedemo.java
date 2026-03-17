@@ -1,4 +1,4 @@
-package com.tnsif.Interfaces;
+package com.tnsif.CoreJavaPrograms.Interfaces;
 
 interface SmartDevice{
     void turnon();

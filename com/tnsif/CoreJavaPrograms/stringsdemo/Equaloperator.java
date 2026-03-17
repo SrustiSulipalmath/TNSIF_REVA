@@ -1,4 +1,4 @@
-package com.tnsif.stringsdemo;
+package com.tnsif.CoreJavaPrograms.stringsdemo;
 // demo for == operator 
 public class Equaloperator {
 	public static void main(String[] args) {

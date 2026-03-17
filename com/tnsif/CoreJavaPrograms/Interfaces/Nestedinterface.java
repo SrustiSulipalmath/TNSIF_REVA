@@ -1,4 +1,4 @@
-package com.tnsif.Interfaces;
+package com.tnsif.CoreJavaPrograms.Interfaces;
 
 public class Nestedinterface implements Myinterface.Myinnerinterface {
     @Override

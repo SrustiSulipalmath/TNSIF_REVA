@@ -1,4 +1,4 @@
-package com.tnsif.stringsdemo;
+package com.tnsif.CoreJavaPrograms.stringsdemo;
 
 public class equalsdemo {
     public static void main(String[] args) {

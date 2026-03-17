@@ -1,4 +1,4 @@
-package com.tnsif.accessmodifierprograms;
+package com.tnsif.CoreJavaPrograms.accessmodifierprograms;
 
 public class Demo1 {
     public static void main(String[] args){

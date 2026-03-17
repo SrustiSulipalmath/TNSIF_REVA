@@ -1,4 +1,4 @@
-package com.tnsif.Interfaces;
+package com.tnsif.CoreJavaPrograms.Interfaces;
 
 public class childclass implements interface1,interface2 {
 

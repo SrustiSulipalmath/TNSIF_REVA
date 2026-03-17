@@ -1,4 +1,4 @@
-package com.tnsif.lambdaexpressions;
+package com.tnsif.CoreJavaPrograms.lambdaexpressions;
 
 @FunctionalInterface
     interface Sayable{

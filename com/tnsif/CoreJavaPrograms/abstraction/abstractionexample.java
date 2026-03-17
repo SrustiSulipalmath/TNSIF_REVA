@@ -1,4 +1,4 @@
-package com.tnsif.abstraction;
+package com.tnsif.CoreJavaPrograms.abstraction;
 
 abstract class payment{
     abstract void pay(double amount);

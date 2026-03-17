@@ -1,4 +1,4 @@
-package com.tnsif.stringsdemo;
+package com.tnsif.CoreJavaPrograms.stringsdemo;
 // demo for compareto method
 public class CompareTo {
 	public static void main(String[] args) {

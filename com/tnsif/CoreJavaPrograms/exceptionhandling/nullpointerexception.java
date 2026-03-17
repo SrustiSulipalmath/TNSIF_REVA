@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling;
+package com.tnsif.CoreJavaPrograms.exceptionhandling;
 
 public class nullpointerexception {
     public static void main(String[] args) {

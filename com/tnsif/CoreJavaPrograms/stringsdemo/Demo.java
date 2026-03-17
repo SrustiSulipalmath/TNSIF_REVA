@@ -1,4 +1,4 @@
-package com.tnsif.stringsdemo;
+package com.tnsif.CoreJavaPrograms.stringsdemo;
 
 public class Demo {
 public static void main(String[] args) {

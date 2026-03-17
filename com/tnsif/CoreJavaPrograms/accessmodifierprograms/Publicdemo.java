@@ -1,4 +1,4 @@
-package com.tnsif.accessmodifierprograms;
+package com.tnsif.CoreJavaPrograms.accessmodifierprograms;
 public class Publicdemo{
     int a = 9;
     private String f = "Rahul";

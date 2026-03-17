@@ -1,4 +1,4 @@
-package com.tnsif.lambdaexpressions;
+package com.tnsif.CoreJavaPrograms.lambdaexpressions;
 
 import java.util.function.Predicate;
 import java.util.function.Supplier;

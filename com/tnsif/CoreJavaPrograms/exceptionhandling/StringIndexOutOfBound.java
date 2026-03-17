@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling;
+package com.tnsif.CoreJavaPrograms.exceptionhandling;
 
 public class StringIndexOutOfBound {
 
